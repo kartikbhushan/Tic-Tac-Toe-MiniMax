@@ -1,5 +1,7 @@
-# Hello_world
-just another repository
-Hello Everyone !!!
-This is my first time doing this stuff in past , cause I am from the future and you dont have to do anything like this
-This is my path to lead you all to the future.
+Tic-Tac-Toe-MiniMax-
+A simple non graphic code in C which uses MiniMax algorithim to predict its moves using backtracking. It then uses these predictions to find the best possible(optimal) move that will get it the Win or get it closer to the Win condition.
+
+A player playing against this would have one of these two possible outcomes:
+
+The game ends with the player loosing.
+The game ends with a tie.
